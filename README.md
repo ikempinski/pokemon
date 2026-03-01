@@ -9,7 +9,7 @@ Aplikacja webowa do zarządzania pokemonami, zbudowana w oparciu o Laravel (back
 1. Sklonuj repozytorium i przejdź do katalogu projektu:
 
 ```bash
-git clone <url-repozytorium>
+git clone <https://github.com/ikempinski/pokemon.git>
 cd PokemonsManagement
 ```
 
